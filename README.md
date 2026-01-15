@@ -17,26 +17,14 @@ BepInEx 6 (IL2CPP) を使用しています。
 2. ゲームのインストールフォルダ（`SecretFlasherManaka.exe` がある場所）に、zipの中身（`BepInEx` フォルダなど）をすべて上書きコピーしてください。
 3. ゲームを起動すると、自動的にモザイク除去が適用されます。
 
-## 開発者向けビルド方法
 
-必要なもの:
-- .NET 6 SDK
-- ゲーム本体（インストール済みで、一度起動して `BepInEx/interop` が生成されていること）
-
-ビルド:
-```bat
-cd src
-build.bat
-```
 
 ## ライセンス
-
-### MosaicRemover Plugin
-MIT License
 
 ### BepInEx (Bundled)
 本パッケージには、[BepInEx](https://github.com/BepInEx/BepInEx) (LGPL-2.1) が同梱されています。
 BepInEx のソースコードおよびライセンス全文は、上記リンク先または同梱の `LICENSE_BepInEx.txt` をご確認ください。
 
 ソースコードの改変は行っておらず、オリジナルのバイナリをそのまま配布しています。
+
 
