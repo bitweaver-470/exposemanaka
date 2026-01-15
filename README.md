@@ -1,6 +1,6 @@
 # SecretFlasherManaka Mosaic Remover
 
-Unity (IL2CPP) ゲーム「Secret Flasher Manaka」用のモザイク除去プラグインです。
+Unity (IL2CPP) ゲーム「Secret Flasher Manaka」用のプラグインです。
 BepInEx 6 (IL2CPP) を使用しています。
 
 ## 動作環境
@@ -39,3 +39,4 @@ MIT License
 BepInEx のソースコードおよびライセンス全文は、上記リンク先または同梱の `LICENSE_BepInEx.txt` をご確認ください。
 
 ソースコードの改変は行っておらず、オリジナルのバイナリをそのまま配布しています。
+
